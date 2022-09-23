@@ -55,7 +55,7 @@ ul, ol{
     padding: 0px 5px 0px 5px;
     margin: 25px 2px 25px 2px;
 }
-button:hover{
+.botonuno:hover{
     color: #fff;
     background-color: #2E86C1;
     border: 1px solid #2E86C1;
